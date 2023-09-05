@@ -1,3 +1,0 @@
-#!/bin/bash
-echp $((2#$BINARY))
-
